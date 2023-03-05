@@ -18,7 +18,7 @@
 
  📫 *Reach out to me by:*
  
- [Email](yihancao201@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yihancao1999/) | [Website](nekoneko20.github.io)
+ [Email](yihancao201@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yihancao1999/) | [Website](https://nekoneko20.github.io/)
 
 <!---
 YihanCao123/YihanCao123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
