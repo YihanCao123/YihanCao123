@@ -1,8 +1,24 @@
-- 👋 Hi, I’m Yihan Cao @YihanCao123.
-- 👀 I’m interested in natural language processing, specifically, in the area of audio-language pretraining, machine translation and dialog system.
-- 🌱 I’m currently MISM student at Carnegie Mellon.
-- 💞️ I’m looking for 2023 intern&full-time opportunities.
-- 📫 Reach me by contacting on LinkedIn: in/yihancao1999
+## 👋 Hi, I’m Yihan Cao @YihanCao123.
+> My heart is in my work. -- Andrew Carnegie
+
+> My heart is in my work. I work 24/7 to keep my heart beating. -- Me
+#### 👀 My research interest:
+- Multimodal Machine Learning: Vision language, Brain2X
+- Natural Language: Prompting/Prompt-based Tuning
+- Code/Tables: Automatic generation
+#### 🌱 Education:
+- I'm happy to share that I will begin my CS PhD soon this fall!
+- 2021-2023 Carnegie Mellon MISM
+- 2017-2021 ZUEL Statistics
+#### 💞️ Job Status:
+- **I'm currently looking for research intern positions beginning from Sep 2023**
+- **I'm also happy to talk about visiting opportunities!**
+- 2023/05-2023/08 Machine Learning Engineer Intern @ LinkedIn, Sunnyvale
+- 2021/09-2022/08 Machine Learning Research Intern @ MSRA & LinkedIn China, Beijing
+
+ 📫 *Reach out to me by:*
+ 
+ [Email](yihancao201@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yihancao1999/) | [Website](nekoneko20.github.io)
 
 <!---
 YihanCao123/YihanCao123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
