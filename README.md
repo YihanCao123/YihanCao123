@@ -10,7 +10,7 @@
 - I'm happy to share that I will begin my CS PhD soon this fall!
 - 2021-2023 Carnegie Mellon MISM
 - 2017-2021 ZUEL Statistics
-#### 💞️ Job Status:
+#### 💼 Job Status:
 - **I'm currently looking for research intern positions beginning from Sep 2023**
 - **I'm also happy to talk about visiting opportunities!**
 - 2023/05-2023/08 Machine Learning Engineer Intern @ LinkedIn, Sunnyvale
