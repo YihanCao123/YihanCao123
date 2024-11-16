@@ -3,16 +3,16 @@
 
 > My heart is in my work. I work 24/7 to keep my heart beating. -- Me
 #### 👀 My research interest:
-- Multimodal Machine Learning: Vision language, Brain2X
-- Natural Language: Prompting/Prompt-based Tuning
-- Code/Tables: Automatic generation
+- Multimodal Machine Learning: VLMs, visual understanding
+- Natural Language: LLM Finetuning, Code generation, embeddings
+- More: Let's talk! I'm exploring GNN+LLMs rn.
 #### 🌱 Education:
-- I'm happy to share that I will begin my CS PhD soon this fall!
 - 2021-2023 Carnegie Mellon MISM
 - 2017-2021 ZUEL Statistics
 #### 💼 Job Status:
 - **I'm happy to talk about visiting opportunities!**
-- 2023/09-2023/12 [Incoming!] Research Intern @ Samsung Research America, Sunnyvale
+- 2024/01-Current MLE
+- 2023/09-2023/12 Research Intern @ Samsung Research America, Sunnyvale
 - 2023/05-2023/08 Machine Learning Engineer Intern @ LinkedIn, Sunnyvale
 - 2021/09-2022/08 Machine Learning Research Intern @ MSRA & LinkedIn China, Beijing
 
